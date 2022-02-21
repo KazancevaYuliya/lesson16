@@ -1,0 +1,25 @@
+.widget {
+    max-width: 320px;
+    margin: 0 auto;
+  
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+  
+  .header {
+    padding: 2rem;
+    background-color: greenyellow;
+    color:rebeccapurple;
+  }
+  
+  
+  .body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    background-color: rgb(235, 235, 37);
+    border-bottom: 1px solid black;
+  
+    padding: 1rem 1rem;
+  }
